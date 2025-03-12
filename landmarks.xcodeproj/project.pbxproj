@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		ABDD0FC22D815B2D00730D87 /* landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ABDD0FE32D81754B00730D87 /* landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = landmarks.app; path = "/Users/amaoto/study/landmarks/build/Debug-iphoneos/landmarks.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				ABDD0FC42D815B2D00730D87 /* landmarks */,
-				ABDD0FC32D815B2D00730D87 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		ABDD0FC32D815B2D00730D87 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				ABDD0FC22D815B2D00730D87 /* landmarks.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -67,7 +58,7 @@
 			packageProductDependencies = (
 			);
 			productName = landmarks;
-			productReference = ABDD0FC22D815B2D00730D87 /* landmarks.app */;
+			productReference = ABDD0FE32D81754B00730D87 /* landmarks.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -95,7 +86,7 @@
 			mainGroup = ABDD0FB92D815B2D00730D87;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = ABDD0FC32D815B2D00730D87 /* Products */;
+			productRefGroup = ABDD0FB92D815B2D00730D87;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -251,7 +242,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"landmarks/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"landmarks\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -279,7 +270,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"landmarks/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"landmarks\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
